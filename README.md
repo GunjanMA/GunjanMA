@@ -6,12 +6,14 @@ I am presently pursuing *Btech* in *Computer Science Engineering* From Vellore I
 My major interests include competitive programming, problem-solving, and web development.
 Being an avid learner, I always try to keep myself updated with the latest technologies in use.
 
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="300px" />
+
 
 - 💬 Ask me about anything and everything !! 
 - 💬 Connect with on **Linkedin** => https://www.linkedin.com/in/gunjanagrawalvit/ 
 - 📫 **Reach** me here => gunjan13082000@gmail.com 
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="200px" />
+
 
  <p>
   <a href="https://www.linkedin.com/in/gunjanagrawalvit/">
