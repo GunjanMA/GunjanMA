@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello !!!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-<!--
-**GunjanMA/GunjanMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ABOUT ME** 
 
-Here are some ideas to get you started:
+I am presently pursuing *Btech* in *Computer Science Engineering* From Vellore Institute of Technology.
+My major interests include competitive programming, problem-solving, and web development.
+Being an avid learner, I always try to keep myself updated with the latest technologies in use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+
+
+- 💬 Ask me about anything and everything !! 
+- 💬 Connect with on **Linkedin** => https://www.linkedin.com/in/gunjanagrawalvit/ 
+- 📫 **Reach** me here => gunjan13082000@gmail.com 
+
+ <p>
+  <a href="https://www.linkedin.com/in/gunjanagrawalvit/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=GunjanMA&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanMA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
