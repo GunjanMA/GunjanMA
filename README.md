@@ -11,7 +11,7 @@ Being an avid learner, I always try to keep myself updated with the latest techn
 - 💬 Connect with on **Linkedin** => https://www.linkedin.com/in/gunjanagrawalvit/ 
 - 📫 **Reach** me here => gunjan13082000@gmail.com 
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="200px" />
 
  <p>
   <a href="https://www.linkedin.com/in/gunjanagrawalvit/">
