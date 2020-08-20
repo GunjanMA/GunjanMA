@@ -6,7 +6,7 @@ I am presently pursuing *Btech* in *Computer Science Engineering* From Vellore I
 My major interests include competitive programming, problem-solving, and web development.
 Being an avid learner, I always try to keep myself updated with the latest technologies in use.
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="300px" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
 
 - 💬 Ask me about anything and everything !! 
@@ -21,6 +21,6 @@ Being an avid learner, I always try to keep myself updated with the latest techn
   </a>
 </p>
 
-![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=GunjanMA&count_private=true&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanMA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=GunjanMA&count_private=true&show_icons=true)
